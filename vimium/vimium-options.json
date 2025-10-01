@@ -1,0 +1,4 @@
+{
+  "keyMappings": "# Insert your preferred key mappings here.\n\nunmap i\nunmap v\nunmap V\nunmap ]]\nunmap [[\nunmap <a-f>\nunmap gF\nunmap gf\nunmap R\nunmap r\nunmap zH\nunmap zL\nunmap ge\nunmap gE\nunmap H\nunmap L\nunmap x\nunmap X\nunmap <a-m>\nunmap <a-p>\nunmap g$\nunmap g0\nunmap ^\nunmap zi\nunmap zo\nunmap z0\nunmap gs\nunmap p\nunmap P",
+  "settingsVersion": "2.3"
+}
